@@ -1,4 +1,12 @@
-# react-netflix-clone-course
+# React Netflix clone LAMBERT Flavien LP WMCE
+
+## Get started
+
+```sh
+git clone git@github.com:Flabinouse/react-netflix-clone-course.git
+npm install
+npm start
+```
 
 ## Features
 
@@ -53,3 +61,13 @@ You have to use MUI lib to build your interfaces.
 ![](Assets/serieEpList.png)
 ![](Assets/topshows.png)
 ![](Assets/whoswatching.png)
+
+## Libraries
+
+- node: 14.15.0
+- react-redux: ^7.2.6
+- react-router-dom: ^6.2.2
+- react-alert: ^7.0.3
+- material-ui/icons: ^4.11.2
+- material-ui/core: ^4.12.3
+- mui/material: ^5.5.1
